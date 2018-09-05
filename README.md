@@ -5,20 +5,20 @@ We believe that to achieve success we need to work on three pillars: `Technology
 
 More than that, we believe we need to share and work on a team - even you lone wolf developers - to achieve more. Over the years we encountered many smart people from which we learned a lot.
 
-**Mind the Tech** is our approach to share what we learned and create a community-driven set of frameworks that can help to reduce the time-to-result in technology-related initiatives. We're talking about a curated and trusted set of seed repos and a space to share best practices and foster leaning and growth.
+**Mind the Tech** is our approach to share what we learned and create a community-driven set of frameworks that can help to reduce the time-to-result in technology-related initiatives. We're talking about a curated and trusted set of seed repos and a space to share best practices and foster learning and growth.
 
 There is more to come!
 
 # Why Mind the Tech?
 
-Who many times have you asked yourself these questions:
+How many times have you asked yourself these questions:
 1. OK, I need to start this new application, how should I start it? What are the best practices?
 2. How to deal with this situation with my teammate?
 3. How can I design a Business process to understand this workflow?
 4. I bought a new Mac and need to configure it, how to do this?
 5. Talking about cybersecurity, how can I comply with this compliance controls?
 
-Sometimes the answers are clear, but often they are not.
+Sometimes the answers are clear, but most often they are not.
 
 Other times you will remember that APP you did in your last job and how amazing would be to get access to that source code, just to check that config file... That file which contains the result of many work hours, researching, reading, in a try & error approach....
 
