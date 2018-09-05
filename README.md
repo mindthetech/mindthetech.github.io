@@ -11,7 +11,7 @@ There is more to come!
 
 ## How to collaborate?
 
-If you want to suggest improvents to the website, send us a Pull Request in our [GitHub repo](https://github.com/mindthetech/mindthetech.github.io).
+If you want to suggest improvements to the website, send us a Pull Request in our [GitHub repo](https://github.com/mindthetech/mindthetech.github.io).
 
 ## Contribuitors
 
