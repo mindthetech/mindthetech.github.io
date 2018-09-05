@@ -11,4 +11,10 @@ There is more to come!
 
 ## How to collaborate?
 
-If you want to suggest improvents to the website, send us a Pull Request in our [GitHub repo](:https://github.com/mindthetech/mindthetech.github.io).
+If you want to suggest improvents to the website, send us a Pull Request in our [GitHub repo](https://github.com/mindthetech/mindthetech.github.io).
+
+## Contribuitors
+
+![Daniel](https://avatars0.githubusercontent.com/u/1389111?s=40&v=4) [Daniel Castellani](https://github.com/orgs/mindthetech/people/dancastellani)
+
+![Thiago](https://avatars1.githubusercontent.com/u/136802?s=40&v=4)[Thiago Diogo](https://github.com/orgs/mindthetech/people/thiagodiogo)
