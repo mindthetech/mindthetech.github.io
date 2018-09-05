@@ -9,6 +9,16 @@ More than that, we believe we need to share and work on a team - even you lone w
 
 There is more to come!
 
+## How to collaborate?
+
+If you want to suggest improvements to the website, send us a Pull Request in our [GitHub repo](https://github.com/mindthetech/mindthetech.github.io).
+
+## Contribuitors
+
+![Daniel](https://avatars0.githubusercontent.com/u/1389111?s=40&v=4) [Daniel Castellani](https://github.com/orgs/mindthetech/people/dancastellani)
+
+![Thiago](https://avatars1.githubusercontent.com/u/136802?s=40&v=4)[Thiago Diogo](https://github.com/orgs/mindthetech/people/thiagodiogo)
+
 # Why Mind the Tech?
 
 How many times have you asked yourself these questions:
@@ -16,7 +26,7 @@ How many times have you asked yourself these questions:
 2. How to deal with this situation with my teammate?
 3. How can I design a Business process to understand this workflow?
 4. I bought a new Mac and need to configure it, how to do this?
-5. Talking about cybersecurity, how can I comply with this compliance controls?
+5. Talking about cybersecurity, how can I comply with these crazy compliance controls?
 
 Sometimes the answers are clear, but most often they are not.
 
