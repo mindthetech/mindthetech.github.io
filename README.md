@@ -1,23 +1,13 @@
 # Mind the Tech?
 
-Our goal is to share our knowledge and grow together.
-We believe that to achieve success we need to work on three pillars: `Technology`, `People` and `Processes`.
+Our goal is to make the best of our time by helping you help you develop better software. So, let's _share knowledge and grow together_!
+We believe that to achieve success we need to work on three pillars: `People`, `Processes` and `Technology`.
 
 More than that, we believe we need to share and work on a team - even you lone wolf developers - to achieve more. Over the years we encountered many smart people from which we learned a lot.
 
 **Mind the Tech** is our approach to share what we learned and create a community-driven set of frameworks that can help to reduce the time-to-result in technology-related initiatives. We're talking about a curated and trusted set of seed repos and a space to share best practices and foster learning and growth.
 
 There is more to come!
-
-## How to collaborate?
-
-If you want to suggest improvements to the website, send us a Pull Request in our [GitHub repo](https://github.com/mindthetech/mindthetech.github.io).
-
-## Contribuitors
-
-![Daniel](https://avatars0.githubusercontent.com/u/1389111?s=40&v=4) [Daniel Castellani](https://github.com/orgs/mindthetech/people/dancastellani)
-
-![Thiago](https://avatars1.githubusercontent.com/u/136802?s=40&v=4)[Thiago Diogo](https://github.com/orgs/mindthetech/people/thiagodiogo)
 
 # Why Mind the Tech?
 
@@ -40,6 +30,17 @@ Thinking about this and how can we change that **we realized the GAP**. The GAP 
 
 However, it's not just about technology. Not the technology by itself.
 
-**It's all about `Technology`, `People` and `Processes`.**
+**It's all about `People`, `Processes` and `Technology`.**
 
 Then we decided to change this. And **Mind the Tech** is our answer to preserve and maximize our most important resource: **Our Time**.
+
+
+## Contribuitors
+
+![Daniel](https://avatars0.githubusercontent.com/u/1389111?s=40&v=4) [Daniel Castellani](https://github.com/orgs/mindthetech/people/dancastellani)
+
+![Thiago](https://avatars1.githubusercontent.com/u/136802?s=40&v=4)[Thiago Diogo](https://github.com/orgs/mindthetech/people/thiagodiogo)
+
+### How to collaborate?
+
+If you want to suggest improvements to the website, send us a Pull Request in our [GitHub repo](https://github.com/mindthetech/mindthetech.github.io).
